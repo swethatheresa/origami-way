@@ -1,0 +1,14 @@
+.myfooter {
+    margin-left: -0.5em ;
+    margin-right: -0.5em ;
+    margin-bottom: -1em ;
+    margin-top: 7em;
+    background-color: #f77878;
+    padding: 1.4em;
+    text-align: center;
+  }
+
+.myfooter div{
+    background-color: #f77878;
+    color: white;
+}

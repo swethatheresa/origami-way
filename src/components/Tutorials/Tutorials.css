@@ -1,0 +1,42 @@
+.container{
+    margin-top: 5em;
+    margin-left: 3.5em;
+    margin-right: 3.5em;
+    display: flex;
+    flex-direction: column;
+    
+}
+.container h1{
+    font-size: 3em;
+    font-weight: 400;
+
+}
+.boxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.box{
+    margin-top: 1em;
+    margin-right: 1em;
+    margin-left: 1em;
+    width: 250px;
+    height:250px;
+}
+.pic{
+    width:250px;
+    height:250px;
+}
+.box h2{
+    margin-top:-10px;
+    color:white;
+    margin-top: 0.5em;
+    font-size: 1.5em;
+    font-weight: 400;
+    margin-left:100px;
+    width:150px;
+    height:40px;
+    text-align: center;
+    background-color: #F80000;
+    padding-top: 0.4em;
+}

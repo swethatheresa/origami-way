@@ -1,0 +1,45 @@
+.name{
+    margin-top: -0.8em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.title{
+    margin-top: -0.6em;
+    font-size: 4em;
+    font-weight: 400;
+    color:  #F80000;;
+    text-align: center;
+}
+
+.description{
+    margin-top: -1em;
+    margin-left: 8em;
+    margin-right: 8em;
+    font-size: 1.3em;
+    font-weight: 400;
+    color: black;
+    text-align: center;
+}
+
+.ribbon1{ 
+    margin-top: 1em;
+    margin-left: -1em;
+    width: 45%;
+}
+.pic2{
+    margin-top: -10em;
+}
+.ribbon2{
+    margin-left: 43em;
+    margin-top: -8em;
+    width: 45%;   
+}
+
+.temp{
+    background-color: transparent;
+    margin-top: -2em;
+    position: absolute;
+}
